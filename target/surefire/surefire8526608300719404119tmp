@@ -1,0 +1,6 @@
+#surefire
+#Thu Apr 16 18:06:29 IST 2015
+user.dir=E\:\\SpringCRUD\\Performer-server
+maven.tomcat.port=8026
+localRepository=C\:\\Users\\vasu\\.m2\\repository
+basedir=E\:\\SpringCRUD\\Performer-server
